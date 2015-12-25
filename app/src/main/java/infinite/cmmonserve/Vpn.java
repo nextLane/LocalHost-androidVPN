@@ -51,7 +51,7 @@ public class Vpn extends VpnService {
                     protect(tunnel.socket());
                     if(tunnel.isConnected())
                     {
-                        Toast.makeText(getApplicationContext(), "Connected to server locally hosted.", Toast.LENGTH_SHORT);
+                        Log.d("**~~~**:", "Connected to server locally hosted.");
                     }
 
                         Log.d("Channel protected***","");
