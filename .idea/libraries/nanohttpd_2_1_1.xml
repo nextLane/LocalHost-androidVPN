@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nanohttpd-2.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/nanohttpd-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

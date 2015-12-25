@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">cmmonServe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_connect_to_server">connectToServer</string>
+    <string name="connect">Connect!</string>
+
+    <string name="connecting">VPN is connecting...</string>
+    <string name="connected">VPN is connected!</string>
+    <string name="disconnected">VPN is disconnected!</string>
+
+</resources>
